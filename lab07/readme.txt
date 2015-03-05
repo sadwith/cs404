@@ -1,3 +1,17 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 5
+# Fritzing   5
+# Code       10
+# Web page   +4 - Your html has the wrong .js file name.
+
+
+Grade:  29/25
+
+================================================
+
+
 To: Mark A Yoder
 From: g sadwith
 Subject: Lab 07 Submission

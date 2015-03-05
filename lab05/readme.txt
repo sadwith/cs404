@@ -6,9 +6,9 @@
 
 # Demo       5
 # ReadMe.txt 3
-# Fritzing   0
+# Fritzing   0 - Appears copied
 # Code       3
-# Table      0 - See assignment
+# Table      0 - Appears copied
 
 # Grade 11/25
 
