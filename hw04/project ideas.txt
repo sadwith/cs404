@@ -31,4 +31,4 @@ reference:http://www.instructables.com/id/Arduino-High-speed-Oscilloscope-with-P
 4)BONE BASED WIRELESS POWER METER
 
 *Only a conceptual idea in my brain. 
-*No specific procedure to do it. 
+*No specific procedure to do it.
