@@ -10,7 +10,7 @@ reference: http://www.instructables.com/id/ArduinoPhone/
 
 
 *The idea is not to control the street lights manually .The street lights should automatically adjust its brightness according to the outside  brightness and reduce the the intensity at mid night when the traffic is very low
-*In our lab experiment it may need to use photo resistors and connect them with bone to adjust the brightness of the led"s.
+*In our lab experiment it may need to use photo resistors and connect them with bone to adjust the brightness of the led's.
 
 *This idea can also be used in class rooms to save energy by switching on the lights according to the no of students available in the class   room.
 *similarly in our houses to save power by switching off when no one is in the room.
