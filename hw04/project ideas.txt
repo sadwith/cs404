@@ -1,16 +1,16 @@
 1)BEAGLE BHONE PHONE
 
-*The idea of the project is to use aurdino to call and send messages.
+*The idea of the project is to use bone to call and send messages.
 *we may need to use a gprs shield,tfttouch shield,beaglebone,power module,battery interface them and use as a basic mobile phone.
- interface them with each other to use it to perform some basc cell phone operations.
+ interface them with each other to use it to perform some basic cell phone operations.
 
-rference: http://www.instructables.com/id/ArduinoPhone/
+reference: http://www.instructables.com/id/ArduinoPhone/
 
 2)AUTO INTENSITY CONTROL FOR STREET LIGHTS
 
 
-*The idea is not to control the street lights manually .The street lights should automatically adjust its brightness acording to the outside  brightness and reduce the the intensity at mid night when the traffic is very low
-*In our lab experiment it may need to use photo resistors and connect them with bone to adjust the brightness of the leds.
+*The idea is not to control the street lights manually .The street lights should automatically adjust its brightness according to the outside  brightness and reduce the the intensity at mid night when the traffic is very low
+*In our lab experiment it may need to use photo resistors and connect them with bone to adjust the brightness of the led"s.
 
 *This idea can also be used in class rooms to save energy by switching on the lights according to the no of students available in the class   room.
 *similarly in our houses to save power by switching off when no one is in the room.
@@ -30,5 +30,5 @@ reference:http://www.instructables.com/id/Arduino-High-speed-Oscilloscope-with-P
 
 4)BONE BASED WIRELESS POWER METER
 
-*only a coseptual idea in my brain. 
-*Do not have specific procedure to do it. 
+*Only a coceptual idea in my brain. 
+*No specific procedure to do it. 
