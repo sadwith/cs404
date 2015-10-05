@@ -1,6 +1,7 @@
 #Comment from Mark A. Yoder
 # Your code looks like mine, no changes were made
-# The hc-sr-04 isn't an i2c device.
+# The hc-sr-04 isn't an i2c device
+# Give you lab partner's name too
 
 # Demo       5
 # ReadMe.txt 3
