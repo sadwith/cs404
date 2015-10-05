@@ -1,3 +1,15 @@
+#Comment from Mark A. Yoder
+# Your code looks like mine, no changes were made
+# The hc-sr-04 isn't an i2c device.
+
+# Demo       5
+# ReadMe.txt 3
+# Fritzing   0
+# Code       3
+# Table      0 - See assignment
+
+# Grade 11/25
+
 Date:16/09/2015
 
 To   : Mark yoder
