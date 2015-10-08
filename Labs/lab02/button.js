@@ -4,7 +4,7 @@ var state = b.LOW;
 
 b.pinMode("USR0", b.OUTPUT);
 b.pinMode("USR1", b.OUTPUT);
-b.pinMode("P9_12", b.OUTPUT);
+b.pinMode("P9_12", b.OUTPUT);//making pins input or output
 b.pinMode("P9_13", b.OUTPUT);
 b.pinMode("P9_16", b.INPUT);
 setInterval(check, 1);
@@ -19,12 +19,12 @@ function toggle() {
 }
 
 function check(){
-    b.digitalRead("P9_16",checkButton);
+    b.digitalRead("P9_16",checkButton);//reding from checkbutton
 }
 
 function checkButton(x) {
   if(x.value == 1){
-    b.digitalWrite("P9_12", b.HIGH);
+    b.digitalWrite("P9_12", b.HIGH);//
     b.digitalWrite("P9_13", b.LOW);
   }
   else {
