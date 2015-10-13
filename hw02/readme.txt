@@ -2,7 +2,7 @@
  To: Mark A Yoder
 From:g sadwith
 Date: 9th october
-Subject: how 02 Submission
+Subject: hw 02 Submission
 Partner's Name : manoj 
 Name: g sadwith
 Roll No.: B13210
