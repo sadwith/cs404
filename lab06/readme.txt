@@ -1,10 +1,9 @@
 To: Mark A Yoder
-From: Guntuku Vikas
-Date: 23rd September, 2015
+From: g sadwith
 Subject: Lab 06 Submission
-Partner's Name : Onkar Singh
-Name: Guntuku Vikas
-Roll No.: B13212
+Partner's Name :manoj
+Name: g sadwith
+Roll No.: B13210
 
 
 	Lab06 aims at controlling various devices like leds, led matrix and E-A-S program using Joystick and reading values using a rotary encoder.

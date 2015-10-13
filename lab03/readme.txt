@@ -1,10 +1,9 @@
 To: Mark A Yoder
-From: Guntuku Vikas
-Date: 23rd September, 2015
+From: g sadwith
 Subject: Lab 03 Submission
-Partner's Name : Onkar Singh
-Name: Guntuku Vikas
-Roll No.: B13212
+Partner's Name: manoj
+Name: g sdawith
+Roll No.: B13210
 
 	Lab03 is related to the understanding of the manipulation of analog input and output by means of a potentiometer and control the brightness of an led by means of PWM.
 	
