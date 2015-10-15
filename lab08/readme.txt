@@ -1,0 +1,9 @@
+To: Mark A Yoder
+From: g sadwith
+Subject: Lab 08 Submission
+Partner's Name :manoj
+Name: g sadwith
+Roll No.: B13210
+
+In this lab we installed kernel and had run the hello.c code.
+
