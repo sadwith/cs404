@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+0  Memory Map - Missing
+4  mmap2.c   - Compile time errors
+5  gpioThru.c - 
+0  Proposal		- Missing
+0  Not Late
+
+Grade 1/25
+
+------------------------------------------------
+
 To: Mark A Yoder
 From:g sadwith
 Subject: hw 05 Submission
