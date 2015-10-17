@@ -1,3 +1,16 @@
+# Comments from Mark A. Yoder
+
+3 blinkled.js - has errors in it
+5 input.js
+0 some variation  - has errors in it
+5 ReadMe.txt
+5 Not late
++2 Fritzing
+
+Grade:  20/25
+
+========================================
+
 To: Mark A Yoder
 From:g sadwith
 Date: 14th september
