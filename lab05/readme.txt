@@ -1,3 +1,19 @@
+
+#Comment from Mark A. Yoder
+# Your code looks like mine, no changes were made
+# The hc-sr-04 isn't an i2c device
+# Give you lab partner's name too
+
+# Demo       5
+# ReadMe.txt 3
+# Fritzing   0
+# Code       3
+# Table      0 - See assignment
+
+# Grade 11/25
+
+Date:16/09/2015
+
 To: Mark A Yoder
 From: g sadwith
 Date: 24th September, 2015
@@ -5,6 +21,7 @@ Subject: Lab 04 Submission
 Partner's Name :manoj
 Name: g sadwith
 Roll No.: B13210
+
 
 
 	lab05 aims at measurement of distance of any object or obstacle by means of Range Sensors and Ultrasonic sensors.
