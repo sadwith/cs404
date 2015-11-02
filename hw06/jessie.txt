@@ -1,0 +1,4 @@
+1)current stable distribution of debian is jessi.  
+2)current testing version is streach.
+3)the unstable version is sid.
+4)952 packages are installed.
