@@ -6,9 +6,9 @@
 
 # Demo       5
 # ReadMe.txt 3
-# Fritzing   0
+# Fritzing   0 - Appears copied
 # Code       3
-# Table      0 - See assignment
+# Table      0 - Appears copied
 
 # Grade 11/25
 
@@ -30,16 +30,18 @@ Roll No.: B13210
 	
 	
 	           Ultrasonic sensor Reading (in cm)  				Actual Distance ( in cm)
-	           
-			           5.4												6.0
-			           6.2												7.1
-			           6.6												7.2
-			           7.5												8.5
-			           8.5												9.7
-			           10												11.3
-			           13												14.7
-			           15												17.1
-			           20												24.6
+	                                                                                      
+			                                                                5.4								                               6.0
+			                                                                6.2								                               7.1
+			                                                                
+			                                                                
+			                                                                6.6							                                        7.2
+			                                                                7.5								                                8.5
+			                                                                8.5												9.7
+			                                                                 10												11.3
+			                                                                 13												14.7
+			                                                                 15												17.1
+			                                                                  20												24.6
 			       
 	           
 	      
@@ -48,3 +50,6 @@ Roll No.: B13210
 	The ultrasonic sensor has two cylinder like objects attached to them. One sends the wave while the other recieves the reflected wave. When Input is given to the trigger pin, a wave is sent and when the wave is recieved back, the echo pin is given logic 1 and input is given to the Beaglebone.Based on time difference, hte distance is calculated.
 	
 	This lab gave a broad overview of range sensors and their applications and working. But based on the errors obtained, it seems a bit unreliable.
+
+
+we used proximity sensor to do a variation
